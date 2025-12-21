@@ -249,8 +249,6 @@ const API_BASE_URL = 'http://localhost:8080';
 
 ## 📄 License
 
-This project is open source and available under the MIT License.
-
 ---
 
 Made with ❤️ using Spring Boot & React
@@ -260,4 +258,7 @@ Made with ❤️ using Spring Boot & React
 ![alt text](image-2.png)
 ![alt text](image-3.png)
 ![alt text](image-4.png)
+```
+```
+image-4.png
 ```
